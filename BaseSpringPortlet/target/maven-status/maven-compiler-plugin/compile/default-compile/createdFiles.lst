@@ -1,0 +1,4 @@
+mx/com/aforexxi/conf/BaseSpringConfiguration.class
+mx/com/aforexxi/controller/BaseSpringPortlet.class
+mx/com/aforexxi/conf/BaseSpringInitializer.class
+mx/com/aforexxi/conf/BaseSpringRootConfig.class
